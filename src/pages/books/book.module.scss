@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+    padding-top: var(--header-size);    
+    min-height: 100vh;
+    max-height: min-content;
+    justify-content: center;
+
+    .book{
+        margin: 1.25rem 0;
+        padding: .875rem 1rem;
+        box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, .35);
+        background-color: var(--baby-powder);
+        max-width: calc(100vw - 40%);
+        border-radius: 8px;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+
+        .title{
+            display: block;
+            font-size: 32px;
+            font-weight: 600;
+            height: max-content;
+            margin: .25rem 0;
+        }
+
+        .author{
+            display: block;
+            font-size: 22px;
+            color: gray;
+            text-decoration: underline;
+        }
+
+        .content{
+            display: block;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            margin-top: 2rem;
+            font-size: 24px;
+            line-height: 1;
+        }
+
+    }
+}

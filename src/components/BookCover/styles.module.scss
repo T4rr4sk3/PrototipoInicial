@@ -1,0 +1,63 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    margin: .5rem 1rem .125rem 0;
+    max-height: 123px;
+    
+    * {
+        cursor: pointer;
+    }
+
+    .cover{
+        width: 100px;   
+        height: 120px;
+        margin: auto;                
+    }
+
+    .side_content{
+        display: flex;
+        flex-direction: column;
+        margin-left: .375rem;
+        min-width: 264px;
+        max-width: 100%;
+        max-height: inherit;
+
+        .title{
+            display: block;
+            font-size: 20px;
+            width: 264px;
+            height: max-content;
+            white-space: nowrap;
+            font-weight: 600;
+            color: black;
+            line-height: 1;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .author{
+            font-size: 14px;
+            color: gray;
+            font-weight: 600;
+        }
+
+        .description{
+            display: block;
+            margin-top: .125rem;
+            width: 264px;
+            font-size: 16px;
+            white-space: pre-wrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-height: 80px;
+            line-height: 1;
+        }
+    }
+   
+}
+
+// display: -webkit-box;
+// -webkit-line-clamp: 3;
+// -webkit-box-orient: vertical;
+// overflow: hidden;
+// text-overflow: ellipsis;

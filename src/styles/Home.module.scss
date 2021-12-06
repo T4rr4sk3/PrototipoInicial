@@ -1,0 +1,18 @@
+.tela {
+  width: auto;
+  min-height: 100vh;
+  background-color: var(--oxford-blue);
+  -webkit-filter: blur(0px);
+  filter: blur(0px);    
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+@media screen and (max-height: 900px) {
+    .tela{
+        height: 757px;
+    }
+}

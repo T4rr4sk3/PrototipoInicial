@@ -1,0 +1,1 @@
+export const caminhoAPIBase = 'http://localhost:3030'

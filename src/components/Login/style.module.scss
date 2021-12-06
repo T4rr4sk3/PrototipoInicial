@@ -1,0 +1,112 @@
+.area{
+    width: 589px;
+    min-height: 620px;
+    overflow: visible;
+    margin: auto;
+    padding: 20px 43px 66px 44px;
+
+    .logo{
+        color: #ffffff;
+        font-size: 84px;
+        letter-spacing: 0px;
+        display: block;
+        text-align: center;
+        height: max-content;
+
+    }
+
+    .logintext{
+        height: max-content;
+        display: block;
+        color: #ffffff;
+        font-size: 30px;
+        letter-spacing: 0px;
+        text-align: center;
+        margin-bottom: 44px;
+    }
+
+    .input_login{        
+        height: max-content;
+        margin-bottom: 24px;
+
+        .label{
+            display: block;
+            color: #ffffff;
+            font-size: 25px;
+            letter-spacing: 0px;
+            line-height: 1.2;
+            padding-bottom: 3px;
+        }
+
+        .input{
+            background-color: white;
+            border: rgba(0, 0, 0, 0.08);
+            font-size: 17px;
+            border-radius: 8px;
+            line-height: 1.4;
+            padding: 15px;
+            color: rgb(51, 51, 51);
+            width: 100%;
+        }
+
+        .input::placeholder{
+            color: rgb(170, 170, 170);
+        }
+    }
+
+    .checkbox_frm{
+        display: block;
+        width: max-content;
+        height: max-content;
+        margin: 0 auto;
+
+        .input{
+            display: inline;
+            height: min-content;
+        }
+
+        .label{
+            display: inline;
+            color: white;
+            font-size: 16px;
+            letter-spacing: 0px;
+            line-height: 1.2;
+        }
+    }
+
+    .forgotpass{
+        display: block;
+        margin: 0 auto;
+        margin-top: 15px;
+        height: min-content;
+        width: max-content;
+        color: white;
+        font-size: 16px;
+        letter-spacing: 0px;
+        line-height: 1.2;
+    }
+
+    .forgotpass:hover{
+        color: #AFAFC0;    
+        text-decoration: underline;
+        cursor: pointer;
+    }
+
+    .loginbtn{
+        display: block;    
+        margin: 0 auto;
+        margin-top: 24px;
+        color: white;
+        font-size: 18px;
+        background-color: rgb(72, 40, 184);
+        padding: 15px 54px;
+        border-radius: 8px;
+        border: none;
+        transition: .3s;
+        cursor: pointer;
+
+        &:hover{
+            background-color: rgba(72, 40, 184, 0.75);
+        }
+    }
+}

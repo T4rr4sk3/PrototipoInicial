@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 884,
+      "name": "Linspector",
+      "password": "testando123"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "text": "“Quando acordei hoje de manhã, eu sabia quem eu era, mas acho que já mudei muitas vezes desde então.”\n- Alice no País das Maravilhas",
+      "author": "Levi W. Edgar"
+    },
+    {
+      "id": 2,
+      "text": "Aconselho a todos lerem o último lançamento do autor @Julieus A. , \"A Grande Reviravolta\" , está uma obra prima. Li os dois primeiros capítulos em dois dias e já estou amando! <3",
+      "author": "Cristina L. Timber"
+    },
+    {
+      "id": 3,
+      "text": "Nada como um café quente e um papel e caneta para expressar minhas ideias.",
+      "author": "K. C. Lemmor"
+    },
+    {
+      "id": 4,
+      "text": "“É preciso que eu suporte duas ou três larvas se quiser conhecer as borboletas.”\n- O Pequeno Príncipe",
+      "author": "Levi W. Edgar"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "O Monstro De Sete Cabeças",
+      "author": "H. D. Jhonson",
+      "description": "Criado por H. D. Jhonson, a trama se passa na era medieval de fantasia. Em um mundo onde diversas criaturas de diferentes raças coexistem, aventureiros de todos os cantos escutam falar de lendas contadas desde seus antepassados. Uma delas, é sobre o famoso monstro de sete cabeças, que tem sua história real contada neste livro.",
+      "content": " Todo o livro estará escrito aqui.\n\n\tContendo diversas páginas e o conteúdo inteiro nesta tela. Por enquanto, a fonte não está decidida, mas provavelmente será uma fonte padrão para leitura, assim aqueles que estão acostumados a ler não sentirão nenhuma diferença e aqueles que não estão acostumados não verão nada de diferente do padrão de outros livros.\n\n\tSerá possível no futuro o usuário criar uma citação do livro para compartilhá-lo nos lugares escolhidos no site e fora dele. Provavelmente, o design dessa página será refeita, por precisar conter mais informações, como a capa do livro, os capítulos, talvez ilustrações... Portanto, essa, de longe, será a página mais complexa de realizar até o momento. Talvez a parte do conteúdo do livro seja apenas um pdf, ao invés de ser textos em uma única página, em uma única caixa."
+    },
+    {
+      "id": 2,
+      "title": "O Monstro De Cinco Cabeças Com Mais Título!",
+      "author": "H. D. Jhonson",
+      "description": "Criado por H. D. Jhonson, a trama se passa na era medieval de fantasia. Em um mundo onde diversas criaturas de diferentes raças coexistem, aventureiros de todos os cantos escutam falar de lendas contadas desde seus antepassados. Uma delas, é sobre o famoso monstro de sete cabeças, que tem sua história real contada neste livro.",
+      "content": " Todo o livro estará escrito aqui.\n\n\tContendo diversas páginas e o conteúdo inteiro nesta tela. Por enquanto, a fonte não está decidida, mas provavelmente será uma fonte padrão para leitura, assim aqueles que estão acostumados a ler não sentirão nenhuma diferença e aqueles que não estão acostumados não verão nada de diferente dos outros livros.\n\tSerá possível no futuro o usuário criar uma citação do livro para compartilhá-lo nos lugares escolhidos no site e fora dele. Provavelmente, o design dessa página será refeita, por precisar conter mais informações, como a capa do livro, os capítulos, talvez ilustrações... Portanto, esse, de longe, será a página mais complexa de realizar, até o momento. Talvez seja apenas um pdf, ao invés de ser textos em html."
+    },
+    {
+      "id": 3,
+      "title": "O Monstro De Duas Cabeças?",
+      "author": "H. D. Jhonson",
+      "description": "Criado por H. D. Jhonson, a trama se passa na era medieval de fantasia. Em um mundo onde diversas criaturas de diferentes raças coexistem, aventureiros de todos os cantos escutam falar de lendas contadas desde seus antepassados. Uma delas, é sobre o famoso monstro de sete cabeças, que tem sua história real contada neste livro.",
+      "content": " Todo o livro estará escrito aqui.\n\n\tContendo diversas páginas e o conteúdo inteiro nesta tela. Por enquanto, a fonte não está decidida, mas provavelmente será uma fonte padrão para leitura, assim aqueles que estão acostumados a ler não sentirão nenhuma diferença e aqueles que não estão acostumados não verão nada de diferente dos outros livros.\n\tSerá possível no futuro o usuário criar uma citação do livro para compartilhá-lo nos lugares escolhidos no site e fora dele. Provavelmente, o design dessa página será refeita, por precisar conter mais informações, como a capa do livro, os capítulos, talvez ilustrações... Portanto, esse, de longe, será a página mais complexa de realizar, até o momento. Talvez seja apenas um pdf, ao invés de ser textos em html."
+    }
+  ]
+}
